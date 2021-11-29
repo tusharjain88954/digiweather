@@ -1,6 +1,0 @@
-CREATE TABLE feedbacks(
-	id SERIAL PRIMARY KEY,
-	comment VARCHAR(70) NOT NULL,
-	email VARCHAR(100) NOT NULL,
-  name VARCHAR(100) NOT NULL,
-);
