@@ -1,4 +1,4 @@
-# Eco_Bricks_Channel
+# digi weather
 Steps to set up the application
 
 npm install
